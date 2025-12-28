@@ -25,5 +25,10 @@ identifier = "youtube"
 name = "YouTube"
 url = "https://socialblade.com/youtube/handle/freelancerpotipako"
 
+[[social]]
+identifier = "telegram"
+name = "Telegram"
+url = "https://t.me/semyonfedoseev"
+
 # [social.params]
 # icon = "instagram"
