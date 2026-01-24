@@ -42,6 +42,4 @@ Product Manager — это универсальный стратег и коор
 
 Посмотрите видео о профессии: https://kinescope.io/d2Vtt24Tk8aVNPvCUsvuDy — наглядно показывает роль продакта в IT-проектах.
 
-Калькулятор: https://fedoseevsm.github.io/lego-promo
-Полный курс: https://fedoseevsm.github.io/2026
 Промо-ссылка: https://stepik.org/course/269329
