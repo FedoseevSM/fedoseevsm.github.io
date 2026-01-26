@@ -30,5 +30,10 @@ identifier = "telegram"
 name = "Telegram"
 url = "https://t.me/semyonfedoseev"
 
+[[social]]
+identifier = "setka"
+name = "Setka"
+url = "https://set.ki/GehkTBw"
+
 # [social.params]
 # icon = "instagram"
