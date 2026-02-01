@@ -183,6 +183,6 @@ Dashly как conversational‑платформа дополняет эту ис
 
 - Carrot quest: https://www.carrotquest.io  
 - Блог и кейсы Carrot quest: https://www.carrotquest.io/blog/  
-- Анализ сайта и трафика на PR‑CY: https://pr-cy.ru/site-statistics/  
+- Анализ сайта и трафика на PR‑CY: https://pr-cy.io/www.carrotquest.io/  
 - Список сайтов на технологии Carrot quest: https://pr-cy.ru/technologies/carrot-quest/  
 - Dashly is a conversational marketing platform to grow revenue, increase sales, and automate support: https://www.dashly.io/
