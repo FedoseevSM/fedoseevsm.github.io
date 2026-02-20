@@ -1,6 +1,6 @@
 ---
 title: "Почему нельзя пользоваться ChatGPT и другими ИИ-моделями"
-date: 2026-02-15T18:57:00+03:00  # MSK timezone
+date: 2026-02-15
 draft: false
 description: "Скрытые ловушки ИИ: шаблоны, дизайн и риски для бизнеса."
 slug: "pochemu-nelzya-doverat-chatgpt"
