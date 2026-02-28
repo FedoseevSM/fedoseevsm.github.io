@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Туризм on Семён Федосеев</title><link>https://fedoseevsm.github.io/tags/%D1%82%D1%83%D1%80%D0%B8%D0%B7%D0%BC/</link><description>Recent content in Туризм on Семён Федосеев</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://fedoseevsm.github.io/tags/%D1%82%D1%83%D1%80%D0%B8%D0%B7%D0%BC/index.xml" rel="self" type="application/rss+xml"/><item><title>Стратегии выживания с рюкзаком</title><link>https://fedoseevsm.github.io/p/%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D0%B8-%D0%B2%D1%8B%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA%D0%BE%D0%BC/</link><pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate><guid>https://fedoseevsm.github.io/p/%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D0%B8-%D0%B2%D1%8B%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA%D0%BE%D0%BC/</guid><description>&lt;h1 id="введение"&gt;Введение
+&lt;/h1&gt;&lt;p&gt;Рюкзак — не просто сумка для вещей, а главный инструмент выживания &lt;strong&gt;и фриланса&lt;/strong&gt; в экстремальных условиях. Правильные стратегии минимизируют вес, максимизируют автономность и позволяют адаптироваться к лесу, горам или городской среде. Они сочетают подготовку экипировки с тактиками поведения, чтобы продержаться от нескольких дней до недель без помощи, &lt;strong&gt;пока вы выполняете клиентские задачи&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="выбор-и-упаковка-рюкзака"&gt;Выбор и упаковка рюкзака
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Выбор: объём 40–60 литров для 3–7 дней, с жёсткой спинкой и водонепроницаемым чехлом.&lt;/li&gt;
+&lt;li&gt;Принцип упаковки: “3–3–3” — 3 литра воды, еда на 3 дня, &lt;strong&gt;3 сезона одежды + powerbank 20 000 мАч&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Распределение веса: тяжёлое (еда, вода, &lt;strong&gt;ноутбук&lt;/strong&gt;) в центр, лёгкое (одежда) сверху. Вес не более 20–25% от вашего веса.&lt;/li&gt;
+&lt;li&gt;Модульность: используйте органайзеры для быстрого доступа к аптечке, ножу &lt;strong&gt;и роутеру&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Минимализация: заменяйте объёмные вещи на функциональные — например, пончо (тент + дождевик), &lt;strong&gt;солнечная панель как зарядка&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id="базовый-набор-для-выживания-10c-system--фриланс"&gt;Базовый набор для выживания (10C system) + фриланс
+&lt;/h1&gt;&lt;p&gt;Соберите “десятку С” — компактный набор в рюкзаке весом до 10 кг. Фокус на shelter (укрытие), water (вода), fire (огонь), signaling (сигнал) &lt;strong&gt;+ connectivity (интернет)&lt;/strong&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Категория&lt;/th&gt;
+&lt;th&gt;Примеры&lt;/th&gt;
+&lt;th style="text-align: right"&gt;Вес (г)&lt;/th&gt;
+&lt;th&gt;Почему критично&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Укрытие&lt;/td&gt;
+&lt;td&gt;Пончо, спальник, верёвка&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1500&lt;/td&gt;
+&lt;td&gt;Защита от гипотермии&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Вода&lt;/td&gt;
+&lt;td&gt;Фильтр Sawyer, таблетки&lt;/td&gt;
+&lt;td style="text-align: right"&gt;200&lt;/td&gt;
+&lt;td&gt;Дегидратация убивает за 3 дня&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Огонь&lt;/td&gt;
+&lt;td&gt;Зажигалка, кресало, вата&lt;/td&gt;
+&lt;td style="text-align: right"&gt;100&lt;/td&gt;
+&lt;td&gt;Тепло, стерилизация, еда&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Сигнал&lt;/td&gt;
+&lt;td&gt;Зеркало, свисток, нож&lt;/td&gt;
+&lt;td style="text-align: right"&gt;300&lt;/td&gt;
+&lt;td&gt;Спасение 80% случаев&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Интернет&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Powerbank 20к, роутер&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right"&gt;&lt;strong&gt;1200&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Доход = фриланс&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h1 id="тактики-в-разных-средах"&gt;Тактики в разных средах
+&lt;/h1&gt;&lt;h2 id="фриланс-в-лесу"&gt;Фриланс в лесу
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Цель: 2-4 часов работы в день при -50% интернета и шуме природы.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id="подготовка-локации"&gt;Подготовка локации
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Зона A (утро)&lt;/strong&gt;: поляна с видом на дорогу — ловит 4G/LTE. Установите тент + стол из веток.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Зона B (день)&lt;/strong&gt;: укрытие от дождя под скалой/деревом — защита техники.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Зона C (вечер)&lt;/strong&gt;: кострище с отражателем (фольга) для тепла + зарядки.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="технический-стек-15-кг"&gt;Технический стек (1,5 кг)
+&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Powerbank 20 000 мАч (Xiaomi/Redmi, 1500 руб) + солнечная панель 20W (Baseus, 2500 руб, 2 дня автономии)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Мобильный интернет: МТС/Билайн eSIM (500 руб/50ГБ) + USB-модем с антенной (Tele2, 2000 руб)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Роутер TP-Link MR600 (с внешней антенной, 5000 руб, ловит 4G в лесу до 10 км от вышки)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Лэптоп 13-14&amp;#34; (Lenovo IdeaPad Slim3 / Honor MagicBook, 40 000 руб) + планшет 10&amp;#34; (Lenovo Tab M10, 10 000 руб)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="распорядок-дня"&gt;Распорядок дня
+&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;06:00–08:00 — разведка/вода/завтрак
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;08:00–12:00 — фриланс
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;12:00–14:00 — обед + перерыв
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;14:00–18:00 — фриланс
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;18:00–20:00 — ужин/огонь/планирование
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;20:00+ — отдых
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="советы"&gt;Советы
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Шумоподавление&lt;/strong&gt;: AirPods Pro + белый шум (ручей).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Эргономика&lt;/strong&gt;: рюкзак под спину, ветка под локти.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Клиенты&lt;/strong&gt;: говорите &amp;ldquo;работаю удалённо из природы&amp;rdquo; — +30% к рейтингу.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Доход&lt;/strong&gt;: 1000–2000$/мес при 20 часах/неделя.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="в-лесу-дополнено"&gt;В лесу (дополнено)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Двигайтесь по азимуту, оставляя метки (ветки в V-форме).&lt;/li&gt;
+&lt;li&gt;Разводите огонь в яме для незаметности &lt;strong&gt;и подогрева powerbank&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Ищите воду по мхе на деревьях (северная сторона) &lt;strong&gt;+ сигнал по возвышенностям&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="американская-стратегия-1-2-месяца"&gt;Американская стратегия (1-2 месяца)
+&lt;/h3&gt;&lt;p&gt;Сложность: высокая. Особенность: 1–2 рюкзака (основной с документами всегда в камере хранения, например, Bouncey за 200 руб/день).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Суть&lt;/strong&gt;: Ищите электричество в кафе/ресторанах, интернет через SIM, спутник или WiFi. Ночуйте в хостелах (до 2000 руб), перемещайте основной рюкзак по районам города.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Еда&lt;/strong&gt;: Шоперы, просить у прохожих, покупать по минимуму.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Минимализм&lt;/strong&gt;: Одноразовые вещи (одежда, гигиена), покупайте по необходимости. Ноутбук для фриланса — ключ к доходу.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Внимание&lt;/strong&gt;: Не спите на улице. Подходит для хиппи-стиля: недельные/месячные циклы, точечная работа, быстрые перемещения.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="зимовка-сезонная-ротация"&gt;Зимовка (сезонная ротация)
+&lt;/h2&gt;&lt;p&gt;Особенность: 4 рюкзака под разные сезоны (весна, лето, осень, зима). Отличие: заранее готовите вещи, приобретаете по месту пребывания.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Весна/осень&lt;/strong&gt;: Термобельё, мембранная куртка, спальник +5°C (2–3 кг).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Лето&lt;/strong&gt;: Лёгкий спальник 0°C, сетка от насекомых, дождевик (1,5 кг).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Зима&lt;/strong&gt;: Пуховик -20°C, термос, химические грелки, снегоступы (4–5 кг).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ротация&lt;/strong&gt;: Храните в гараже/кладовке, меняйте по прогнозу за 2 недели.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Покупайте локально (Decathlon, Wildberries), тестируйте каждый набор.&lt;/p&gt;
+&lt;h2 id="студия-стационарный-спот"&gt;Студия (стационарный спот)
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Лучший вариант с минимумом стресса.&lt;/strong&gt; Первым делом находите место для спота — помещение в подвале, офисе или гараже. Квартиры/комнаты не подходят из-за отсутствия пространства для работы.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Особенность&lt;/strong&gt;: Живёте и работаете в одном помещении. Максимально проговорите условия с владельцем (аренда, коммуналка, доступ 24/7).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Риски&lt;/strong&gt;: Сквоттерство или помещения друзей — только при взаимной договорённости.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Помещение = отражение процесса&lt;/strong&gt;: Расставьте стол, инструменты, спальник. Рюкзак — только для выездов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Преимущества&lt;/strong&gt;: Стабильный интернет/электричество, место для фриланса/SaaS, кухня для готовки.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Это база для долгосрочного выживания с продуктивностью.&lt;/p&gt;
+&lt;h2 id="психология-и-долгосрочные-стратегии"&gt;Психология и долгосрочные стратегии
+&lt;/h2&gt;&lt;p&gt;Выживание — 80% менталитет. Установите распорядок: утро — вода/огонь, день — разведка, вечер — укрытие.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rationing&lt;/strong&gt;: Еда на 1000–1500 ккал/день, вода 3–4 л.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Тренировки&lt;/strong&gt;: Еженедельно симулируйте 24 часа с рюкзаком.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;План B&lt;/strong&gt;: Всегда имейте &amp;ldquo;get-home bag&amp;rdquo; для возврата домой.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Регулярная практика превращает рюкзак в надёжного союзника.&lt;/p&gt;</description></item></channel></rss>
