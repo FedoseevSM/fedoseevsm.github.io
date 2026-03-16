@@ -9,23 +9,39 @@ keywords: ["фриланс", "удаленка", "7 стран", "freechising", 
 categories: ["Фриланс", "Карьера"]
 tags: ["глобальный фриланс", "российские партнеры", "международная карьера"]
 ---
-Привет! Я Семён, профессиональный фрилансер, который строит международную карьеру на удалёнке. Мой блог “Семён и фриланс. 7 стран успеха. Глобальный путь” — это твой проводник в мир глобального фриланса. Я эксперт по выбору рынков, топ-нишам и выходу на зарубежные платформы через российских партнёров. Ищу единомышленников для совместных проектов в IT, маркетинге и дизайне — давай фрилансить в 7 странах вместе!
-Я показываю на своём примере, как фриланс сочетает гибкость, дисциплину и непрерывное обучение в разных странах. Это ключ к росту на глобальном рынке.
-**Контакты и услуги**
-Профиль TenChat: https://tenchat.ru/freechising  
-Конструктор: https://freechising.ru
-ВИДЕО  
-YouTube: https://youtube.com/@freelancerpotipako  
-Kinescope: https://kinescope.io/d2Vtt24Tk8aVNPvCUsvuDy
-ЧАТ  
-Telegram: https://t.me/+79998664742  
-Instagram: https://instagram.com/hipackme
-БЛОГ  
-GitHub: https://fedoseevsm.github.io  
-Сетка: https://set.ki/GehkTBw
-АГЕНСТВО  
-https://gui.camp  
-https://golfui.ru
+Привет! 
+Я **Семён**, профессиональный фрилансер, который строит **международную карьеру на удалёнке**.
+
+Мой блог — это твой проводник в мир **глобального фриланса**.  
+Я эксперт по:  
+- Выбору рынков  
+- Топ-нишам  
+- Выходу на зарубежные платформы через российских партнёров  
+
+Ищу **единомышленников** для совместных проектов в **IT, маркетинге и дизайне** — давай фрилансить в **7 странах** вместе!
+
+Я показываю на своём примере, как фриланс сочетает **гибкость, дисциплину и непрерывное обучение** в разных странах. Это ключ к росту на глобальном рынке.
+
+## Контакты и услуги
+
+**Профиль TenChat:** [https://tenchat.ru/freechising](https://tenchat.ru/freechising)  
+**Конструктор:** [https://freechising.ru](https://freechising.ru)
+
+### ВИДЕО
+- **YouTube:** [https://youtube.com/@freelancerpotipako](https://youtube.com/@freelancerpotipako)  
+- **Kinescope:** [https://kinescope.io/d2Vtt24Tk8aVNPvCUsvuDy](https://kinescope.io/d2Vtt24Tk8aVNPvCUsvuDy)
+
+### ЧАТ
+- **Telegram:** [https://t.me/+79998664742](https://t.me/+79998664742)  
+- **Instagram:** [https://instagram.com/hipackme](https://instagram.com/hipackme)
+
+### БЛОГ
+- **GitHub:** [https://fedoseevsm.github.io](https://fedoseevsm.github.io)  
+- **Сетка:** [https://set.ki/GehkTBw](https://set.ki/GehkTBw)
+
+### АГЕНСТВО
+- [https://gui.camp](https://gui.camp)  
+- [https://golfui.ru](https://golfui.ru)
 
 Ключевые навыки
 
