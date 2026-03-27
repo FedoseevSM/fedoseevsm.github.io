@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Портфолио on Семён Федосеев</title><link>https://fedoseevsm.github.io/tags/%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/</link><description>Recent content in Портфолио on Семён Федосеев</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Fri, 27 Mar 2026 07:44:00 +0300</lastBuildDate><atom:link href="https://fedoseevsm.github.io/tags/%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/index.xml" rel="self" type="application/rss+xml"/><item><title>10 черновиков стартапов, которые реально работают</title><link>https://fedoseevsm.github.io/p/10-startup-drafts-that-work/</link><pubDate>Fri, 27 Mar 2026 07:44:00 +0300</pubDate><guid>https://fedoseevsm.github.io/p/10-startup-drafts-that-work/</guid><description>&lt;p&gt;С 18 апреля 2025 года я поставил себе цель — &lt;strong&gt;создать 10 черновиков стартапов&lt;/strong&gt;, которые смогут реально генерировать заявки.&lt;br&gt;
+За это время я протестировал несколько бизнес-моделей и инструментов — и вот какие результаты получилось собрать на практике 👇&lt;/p&gt;
+&lt;h2 id="-такси-мобильное-приложение"&gt;🚕 Такси (мобильное приложение)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Лендинг:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/wana2" target="_blank" rel="noopener"
+&gt;wana2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Клиент:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/client-wana2" target="_blank" rel="noopener"
+&gt;client-wana2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Водитель:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/driver-wana2" target="_blank" rel="noopener"
+&gt;driver-wana2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-универсальный-виджет"&gt;⚙️ Универсальный виджет
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Лендинг:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/forkpack.ru" target="_blank" rel="noopener"
+&gt;forkpack.ru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-обучающий-курс"&gt;🎓 Обучающий курс
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Лендинг:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/2026" target="_blank" rel="noopener"
+&gt;2026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stepik:&lt;/strong&gt; &lt;a class="link" href="https://stepik.org/course/269329" target="_blank" rel="noopener"
+&gt;course/269329&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-воронки-продаж"&gt;💼 Воронки продаж
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Конструктор:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/freechising-funnels" target="_blank" rel="noopener"
+&gt;freechising-funnels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Лендинг:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/freechising-landing" target="_blank" rel="noopener"
+&gt;freechising-landing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Подбор ниши:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/freechising-niches" target="_blank" rel="noopener"
+&gt;freechising-niches&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Калькулятор:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/freechising-calculator" target="_blank" rel="noopener"
+&gt;freechising-calculator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-блог"&gt;🧠 Блог
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hugo:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/fedoseevsm.github.io" target="_blank" rel="noopener"
+&gt;fedoseevsm.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Эти проекты &lt;strong&gt;реально работают&lt;/strong&gt; — они приносят заявки, помогают устанавливать новые деловые связи и служат базой для масштабирования бизнеса через модель &lt;strong&gt;Фричайзинг&lt;/strong&gt; (не путать с классическим франчайзингом).&lt;/p&gt;
+&lt;p&gt;Все исходники доступны в открытом доступе.&lt;br&gt;
+Если вы используете код или идеи из этих проектов, пожалуйста, &lt;strong&gt;указывайте ссылку на оригинальный источник&lt;/strong&gt; или упоминайте &lt;strong&gt;бизнес-модель Фричайзинг&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;⭐ &lt;strong&gt;Фричайзинг&lt;/strong&gt; — это подход к развитию бизнеса через совместное использование цифровых инструментов и открытых исходников.&lt;br&gt;
+Он объединяет предпринимателей, программистов и маркетологов вокруг одной цели — собирать реальные заявки через автоматизированные решения и создание партнёрской сети.&lt;/p&gt;</description></item></channel></rss>
