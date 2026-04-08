@@ -7,6 +7,11 @@
 #icon = "home"
 #newtab = true
 
+[[menu.main]]
+  name = "Все теги"
+  url = "/tags/"
+  weight = 50
+
 [[social]]
 identifier = "github"
 name = "GitHub"
