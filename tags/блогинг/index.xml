@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Блогинг on Семён Федосеев</title><link>https://fedoseevsm.github.io/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B3/</link><description>Recent content in Блогинг on Семён Федосеев</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://fedoseevsm.github.io/tags/%D0%B1%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B3/index.xml" rel="self" type="application/rss+xml"/><item><title>Алгоритмы фильтруют контент без предупреждения — пора делать личный блог</title><link>https://fedoseevsm.github.io/p/algoritmy-filtruyut-kontent-bez-preduprezhdeniya/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><guid>https://fedoseevsm.github.io/p/algoritmy-filtruyut-kontent-bez-preduprezhdeniya/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Сегодня алгоритмы соцсетей и площадок всё чаще &lt;strong&gt;фильтруют&lt;/strong&gt; и удаляют посты и комментарии без предупреждения: достаточно упомянуть &amp;ldquo;vpn&amp;rdquo;, &amp;ldquo;впн&amp;rdquo; и ещё десяток &amp;ldquo;опасных&amp;rdquo; слов. Контент исчезает, обсуждения рвутся, а вы остаётесь без архива своих же материалов.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Поэтому я последовательно топлю за &lt;strong&gt;личный блог на собственном домене&lt;/strong&gt; и с открытым кодом. Это инфраструктура, которая принадлежит вам и проверена временем, а не прихотями очередной платформы.&lt;/p&gt;
+&lt;h2 id="как-начать-свой-блог-и-портфолио"&gt;Как начать свой блог и портфолио
+&lt;/h2&gt;&lt;p&gt;Для тех, кто хочет сделать себе такой блог и портфолио, у меня есть бесплатный курс:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Курс «Как создавать блог и портфолио»&lt;/strong&gt;&lt;br&gt;
+&lt;a class="link" href="https://stepik.org/course/269329" target="_blank" rel="noopener"
+&gt;https://stepik.org/course/269329&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Логика простая:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;сначала вы создаёте блог и портфолио;&lt;/li&gt;
+&lt;li&gt;затем, когда появляется база кейсов и процессов — открываете агентство.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Уже сегодня вы можете выложить в открытый доступ свои «боевые» версии: достаточно заменить личные данные и коммерчески чувствительную информацию.&lt;/p&gt;
+&lt;h2 id="что-важнее-эксклюзивного-кода"&gt;Что важнее эксклюзивного кода
+&lt;/h2&gt;&lt;p&gt;Гораздо важнее:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;понятное &lt;strong&gt;портфолио&lt;/strong&gt; с реальными задачами;&lt;/li&gt;
+&lt;li&gt;чётко описанные &lt;strong&gt;процессы&lt;/strong&gt; и «записанная» методичка;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;чем «уникальный» дизайн и сверх-оригинальный код, который всё равно поймут два человека из ста.&lt;/p&gt;
+&lt;h2 id="мои-шаблоны-веб-агентств-в-открытом-доступе"&gt;Мои шаблоны веб-агентств в открытом доступе
+&lt;/h2&gt;&lt;p&gt;В открытый доступ отдаю свои варианты веб-агентств — их можно:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;форкать&lt;/li&gt;
+&lt;li&gt;разбирать по частям&lt;/li&gt;
+&lt;li&gt;адаптировать под свои ниши&lt;/li&gt;
+&lt;li&gt;использовать как основу для портфолио и учебных пет-проектов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Репозиторий&lt;/th&gt;
+&lt;th&gt;Описание&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class="link" href="https://github.com/FedoseevSM/modern-agency" target="_blank" rel="noopener"
+&gt;Modern Agency&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Современное агентство&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class="link" href="https://github.com/FedoseevSM/bubbleplusagancy" target="_blank" rel="noopener"
+&gt;Bubble Plus Agency&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Агентство с интеграциями&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class="link" href="https://github.com/FedoseevSM/guicamp-frontend" target="_blank" rel="noopener"
+&gt;GuiCamp Frontend&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Фронтенд для международного агенства&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Делайте ставку на устойчивую инфраструктуру и накопление опыта, а не на настроение алгоритмов.&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>

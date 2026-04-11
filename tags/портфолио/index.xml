@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Портфолио on Семён Федосеев</title><link>https://fedoseevsm.github.io/tags/%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/</link><description>Recent content in Портфолио on Семён Федосеев</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://fedoseevsm.github.io/tags/%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/index.xml" rel="self" type="application/rss+xml"/><item><title>Алгоритмы фильтруют контент без предупреждения — пора делать личный блог</title><link>https://fedoseevsm.github.io/p/algoritmy-filtruyut-kontent-bez-preduprezhdeniya/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><guid>https://fedoseevsm.github.io/p/algoritmy-filtruyut-kontent-bez-preduprezhdeniya/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Сегодня алгоритмы соцсетей и площадок всё чаще &lt;strong&gt;фильтруют&lt;/strong&gt; и удаляют посты и комментарии без предупреждения: достаточно упомянуть &amp;ldquo;vpn&amp;rdquo;, &amp;ldquo;впн&amp;rdquo; и ещё десяток &amp;ldquo;опасных&amp;rdquo; слов. Контент исчезает, обсуждения рвутся, а вы остаётесь без архива своих же материалов.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Поэтому я последовательно топлю за &lt;strong&gt;личный блог на собственном домене&lt;/strong&gt; и с открытым кодом. Это инфраструктура, которая принадлежит вам и проверена временем, а не прихотями очередной платформы.&lt;/p&gt;
+&lt;h2 id="как-начать-свой-блог-и-портфолио"&gt;Как начать свой блог и портфолио
+&lt;/h2&gt;&lt;p&gt;Для тех, кто хочет сделать себе такой блог и портфолио, у меня есть бесплатный курс:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Курс «Как создавать блог и портфолио»&lt;/strong&gt;&lt;br&gt;
+&lt;a class="link" href="https://stepik.org/course/269329" target="_blank" rel="noopener"
+&gt;https://stepik.org/course/269329&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Логика простая:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;сначала вы создаёте блог и портфолио;&lt;/li&gt;
+&lt;li&gt;затем, когда появляется база кейсов и процессов — открываете агентство.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Уже сегодня вы можете выложить в открытый доступ свои «боевые» версии: достаточно заменить личные данные и коммерчески чувствительную информацию.&lt;/p&gt;
+&lt;h2 id="что-важнее-эксклюзивного-кода"&gt;Что важнее эксклюзивного кода
+&lt;/h2&gt;&lt;p&gt;Гораздо важнее:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;понятное &lt;strong&gt;портфолио&lt;/strong&gt; с реальными задачами;&lt;/li&gt;
+&lt;li&gt;чётко описанные &lt;strong&gt;процессы&lt;/strong&gt; и «записанная» методичка;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;чем «уникальный» дизайн и сверх-оригинальный код, который всё равно поймут два человека из ста.&lt;/p&gt;
+&lt;h2 id="мои-шаблоны-веб-агентств-в-открытом-доступе"&gt;Мои шаблоны веб-агентств в открытом доступе
+&lt;/h2&gt;&lt;p&gt;В открытый доступ отдаю свои варианты веб-агентств — их можно:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;форкать&lt;/li&gt;
+&lt;li&gt;разбирать по частям&lt;/li&gt;
+&lt;li&gt;адаптировать под свои ниши&lt;/li&gt;
+&lt;li&gt;использовать как основу для портфолио и учебных пет-проектов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Репозиторий&lt;/th&gt;
+&lt;th&gt;Описание&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class="link" href="https://github.com/FedoseevSM/modern-agency" target="_blank" rel="noopener"
+&gt;Modern Agency&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Современное агентство&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class="link" href="https://github.com/FedoseevSM/bubbleplusagancy" target="_blank" rel="noopener"
+&gt;Bubble Plus Agency&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Агентство с интеграциями&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class="link" href="https://github.com/FedoseevSM/guicamp-frontend" target="_blank" rel="noopener"
+&gt;GuiCamp Frontend&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Фронтенд для международного агенства&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Делайте ставку на устойчивую инфраструктуру и накопление опыта, а не на настроение алгоритмов.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>10 черновиков стартапов, которые реально работают</title><link>https://fedoseevsm.github.io/p/10-startup-drafts-that-work/</link><pubDate>Fri, 27 Mar 2026 07:44:00 +0300</pubDate><guid>https://fedoseevsm.github.io/p/10-startup-drafts-that-work/</guid><description>&lt;p&gt;С 18 апреля 2025 года я поставил себе цель — &lt;strong&gt;создать 10 черновиков стартапов&lt;/strong&gt;, которые смогут реально генерировать заявки.&lt;br&gt;
+За это время я протестировал несколько бизнес-моделей и инструментов — и вот какие результаты получилось собрать на практике 👇&lt;/p&gt;
+&lt;h2 id="-такси-мобильное-приложение"&gt;🚕 Такси (мобильное приложение)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Лендинг:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/wana2" target="_blank" rel="noopener"
+&gt;wana2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Клиент:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/client-wana2" target="_blank" rel="noopener"
+&gt;client-wana2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Водитель:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/driver-wana2" target="_blank" rel="noopener"
+&gt;driver-wana2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-универсальный-виджет"&gt;⚙️ Универсальный виджет
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Лендинг:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/forkpack.ru" target="_blank" rel="noopener"
+&gt;forkpack.ru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-обучающий-курс"&gt;🎓 Обучающий курс
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Лендинг:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/2026" target="_blank" rel="noopener"
+&gt;2026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stepik:&lt;/strong&gt; &lt;a class="link" href="https://stepik.org/course/269329" target="_blank" rel="noopener"
+&gt;course/269329&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-воронки-продаж"&gt;💼 Воронки продаж
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Конструктор:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/freechising-funnels" target="_blank" rel="noopener"
+&gt;freechising-funnels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Лендинг:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/freechising-landing" target="_blank" rel="noopener"
+&gt;freechising-landing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Подбор ниши:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/freechising-niches" target="_blank" rel="noopener"
+&gt;freechising-niches&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Калькулятор:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/freechising-calculator" target="_blank" rel="noopener"
+&gt;freechising-calculator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-блог"&gt;🧠 Блог
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hugo:&lt;/strong&gt; &lt;a class="link" href="https://github.com/FedoseevSM/fedoseevsm.github.io" target="_blank" rel="noopener"
+&gt;fedoseevsm.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Эти проекты &lt;strong&gt;реально работают&lt;/strong&gt; — они приносят заявки, помогают устанавливать новые деловые связи и служат базой для масштабирования бизнеса через модель &lt;strong&gt;Фричайзинг&lt;/strong&gt; (не путать с классическим франчайзингом).&lt;/p&gt;
+&lt;p&gt;Все исходники доступны в открытом доступе.&lt;br&gt;
+Если вы используете код или идеи из этих проектов, пожалуйста, &lt;strong&gt;указывайте ссылку на оригинальный источник&lt;/strong&gt; или упоминайте &lt;strong&gt;бизнес-модель Фричайзинг&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;⭐ &lt;strong&gt;Фричайзинг&lt;/strong&gt; — это подход к развитию бизнеса через совместное использование цифровых инструментов и открытых исходников.&lt;br&gt;
+Он объединяет предпринимателей, программистов и маркетологов вокруг одной цели — собирать реальные заявки через автоматизированные решения и создание партнёрской сети.&lt;/p&gt;</description></item></channel></rss>
