@@ -42,7 +42,7 @@ LMS синхронизирует обе площадки:
 
 LMS для интенсивов построена на базе публичного стартера, который можно использовать и как готовое решение, и как основу для своих проектов:
 
-![https://github.com/FedoseevSM/testtest](https://github.com/FedoseevSM/testtest)
+[https://github.com/FedoseevSM/testtest](https://github.com/FedoseevSM/testtest)
 ⭐ Поставьте звезду и сделайте форк, если проект оказался полезным для ваших курсов, интенсивов или интеграций.  
 
 Внутри структура на уровне **Enterprise**:  
