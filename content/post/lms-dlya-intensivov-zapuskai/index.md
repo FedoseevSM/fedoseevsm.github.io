@@ -1,6 +1,6 @@
 ---
 title: "Мы собрали LMS для интенсивов — запускай свой собственный курс"
-slug: "lms-dlya-intensivov-zapuskai-marafonyi-bez-boli"
+slug: "lms-dlya-intensivov-zapuskai"
 date: 2026-04-13
 draft: false
 tags: ["LMS", "интенсивы", "образование", "онлайн-курсы"]
