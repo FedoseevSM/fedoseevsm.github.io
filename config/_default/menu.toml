@@ -28,12 +28,12 @@ url = "https://socialblade.com/youtube/channel/UCwt4lgpwLt9kbYJhVD2k_1g"
 [[social]]
 identifier = "telegram"
 name = "Telegram"
-url = "https://tglink.ru/%2079998664742"
+url = "https://tglink.ru/semyonfedoseev"
 
 [[social]]
 identifier = "setka"
 name = "Setka"
-url = "https://set.ki/GehkTBw"
+url = "https://setka.ru/accounts/34fa8040-47fb-4474-a94a-67d461712261"
 
 # [social.params]
 # icon = "instagram"
