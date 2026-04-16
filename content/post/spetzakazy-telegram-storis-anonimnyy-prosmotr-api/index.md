@@ -1,7 +1,7 @@
 ---
 title: "Как спецзаказчики могут анонимно смотреть ваши сторис в Telegram"
 slug: "spetzakazy-telegram-storis-anonimnyy-prosmotr-api"
-date: 2026-04-17
+date: 2026-04-16
 draft: false
 tags: ["спецзаказы", "анонимный просмотр сторис", "Telegram API", "двухфакторная авторизация", "приватность в Telegram"]
 author: "Семён Федосеев"
