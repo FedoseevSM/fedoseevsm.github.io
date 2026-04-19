@@ -1,5 +1,5 @@
 ---
-title: "Нужно дружить с разработчиками: они — суперсолдаты фриланса"
+title: "Нужно дружить с разработчиками"
 date: 2026-04-19T23:00:00+03:00
 draft: false
 slug: "druzhi-s-razrabotchikami-supersoldaty-freelansa"
