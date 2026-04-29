@@ -1,6 +1,6 @@
 ---
-title: "Пётр I и его китайский путь: завещание о дороге в Китай и Индию через Ледовитое море"
-date: 2026-04-28
+title: "Пётр I и его "китайский путь": завещание о дороге в Китай и Индию через Ледовитое море"
+date: 2026-04-29
 slug: "petr-i-i-ego-kitayskiy-put-zaveschanie-o-doroge-v-kitay-i-indiyu-cherez-ledovitoe-more"
 author: "Семён Федосеев"
 draft: false
