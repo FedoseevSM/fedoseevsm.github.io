@@ -1,10 +1,14 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+   - title: TenChat
+    description: Фричайзинг • Вокруг света на волне успеха
+    website: https://tenchat.ru/freechising
+    image: https://upload.wikimedia.org/wikipedia/commons/4/4a/TenchatLogo.png
+  - title: Dsgners
+    description: Гольфуй
+    website: https://dsgners.ru/golfui
+    image: https://dsgners.ru/assets/img/logo_mobile.svg
 menu:
     main: 
         weight: 4
