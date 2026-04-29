@@ -1,8 +1,8 @@
 ---
 title: Links
 links:
-   - title: TenChat
-    description: Фричайзинг
+  - title: TenChat
+    description: Фричайзинг • Вокруг света на волне успеха
     website: https://tenchat.ru/freechising
     image: https://upload.wikimedia.org/wikipedia/commons/4/4a/TenchatLogo.png
   - title: Dsgners
