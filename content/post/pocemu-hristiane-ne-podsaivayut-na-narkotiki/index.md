@@ -1,7 +1,7 @@
 ---
 title: "Почему христиане всех подсаживают на наркотики"
-slug: "pocemu-hristiane-ne-podsaivayut-na-narkotiki"
-date: 2026-05-01
+slug: "pocemu-hristiane-podsaivayut-na-narkotiki"
+date: 2026-30-04
 ---
 
 
