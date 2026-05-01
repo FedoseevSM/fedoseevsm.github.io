@@ -5,10 +5,10 @@ links:
     description: Фричайзинг • Вокруг света на волне успеха
     website: https://tenchat.ru/freechising
     image: https://upload.wikimedia.org/wikipedia/commons/4/4a/TenchatLogo.png
-  - title: Dsgners
-    description: Гольфуй
-    website: https://dsgners.ru/golfui
-    image: https://dsgners.ru/assets/img/logo_mobile.svg
+  - title: KPOL
+    description: Биржа фриланс услуг
+    website: https://keypolice.github.io
+    image: https://images.icon-icons.com/317/PNG/512/keyring-icon_34403.png
 menu:
     main: 
         weight: 4
