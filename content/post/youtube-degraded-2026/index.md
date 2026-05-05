@@ -1,7 +1,7 @@
 ---
 title: "YouTube уже не тот: подмешивает запросы по локации рекламируя схемы и казино"
 slug: "youtube-degraded-2026"
-date: 2026-04-06
+date: 2026-03-06
 draft: false
 ---
 
