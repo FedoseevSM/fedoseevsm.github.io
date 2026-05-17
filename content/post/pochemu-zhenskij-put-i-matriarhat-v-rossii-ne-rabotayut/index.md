@@ -1,6 +1,6 @@
 ---
 title: "Почему «женский путь» и матриархальные тренды в России не работают"
-date: 2026-05-17T10:00:00+03:00
+date: 2026-05-17
 draft: false
 slug: "pochemu-zhenskij-put-i-matriarhat-v-rossii-ne-rabotayut"
 ---
