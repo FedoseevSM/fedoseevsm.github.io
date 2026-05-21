@@ -1,5 +1,5 @@
 ---
-title: "Как сегодня продают Санкт-Петербург"
+title: Как сегодня продают Санкт-Петербург
 slug: "kak-segodnya-prodayut-sankt-peterburg"
 date: 2026-05-22
 draft: false
