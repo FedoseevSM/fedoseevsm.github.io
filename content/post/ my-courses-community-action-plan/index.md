@@ -2,7 +2,7 @@
 title: Мои достижения, цели и планы по созданию сообщества
 date: 2026-05-25
 draft: false
-slug: “my-courses-community-action-plan”
+slug: my-courses-community-action-plan
 ---
 
 ## Достижения
