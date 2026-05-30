@@ -1,6 +1,6 @@
 ---
 title: "Викром Кромадит: в России нет брендов, но есть человеческий капитал"
-date: 2028-05-30
+date: 2026-05-30
 draft: false
 slug: vikrom-kromadit-rossii-net-brendov-no-est-chelovecheskii-kapital
 ---
