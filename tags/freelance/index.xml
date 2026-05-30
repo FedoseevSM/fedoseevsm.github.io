@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Freelance on Семён Федосеев</title><link>https://fedoseevsm.github.io/tags/freelance/</link><description>Recent content in Freelance on Семён Федосеев</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Mon, 20 Apr 2026 09:10:00 +0300</lastBuildDate><atom:link href="https://fedoseevsm.github.io/tags/freelance/index.xml" rel="self" type="application/rss+xml"/><item><title>Broken Dicks. Рынок разработки в РФ сам себя сломал</title><link>https://fedoseevsm.github.io/p/broken-dicks-rf-dev-market/</link><pubDate>Mon, 20 Apr 2026 09:10:00 +0300</pubDate><guid>https://fedoseevsm.github.io/p/broken-dicks-rf-dev-market/</guid><description>&lt;p&gt;За последние 5 лет рынок разработки в России не просто изменился — его перекосило.&lt;/p&gt;
+&lt;p&gt;Если раньше разработчик мог выбирать проекты, торговаться за условия и спокойно расти, то сейчас всё чаще ощущение, что рынок сломан. Причём системно.&lt;/p&gt;
+&lt;p&gt;Я называю это состоянием — &lt;em&gt;broken dicks&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id="как-мы-сюда-пришли"&gt;Как мы сюда пришли
+&lt;/h2&gt;&lt;h3 id="1-условия-работы-просели-минимум-в-2-раза"&gt;1. Условия работы просели минимум в 2 раза
+&lt;/h3&gt;&lt;p&gt;Удалёнка стала «условной», переработки — нормой, стабильность исчезла.&lt;br&gt;
+Работодатель теперь диктует правила, а не договаривается.&lt;/p&gt;
+&lt;h3 id="2-оплата-труда-упала-до-34-раз"&gt;2. Оплата труда упала до 3–4 раз
+&lt;/h3&gt;&lt;p&gt;Это особенно заметно при сравнении с международным рынком или РФ образца 2019–2021.
+То, что раньше считалось средним уровнем — теперь «дорого».&lt;/p&gt;
+&lt;h3 id="3-порог-входа-размыт"&gt;3. Порог входа размыт
+&lt;/h3&gt;&lt;p&gt;На рынок зашло много новичков, но проблема не в них — проблема в ожиданиях.&lt;/p&gt;
+&lt;p&gt;Бизнесу внушили, что «AI всё сделает», значит можно:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;брать джунов&lt;/li&gt;
+&lt;li&gt;экономить на опыте&lt;/li&gt;
+&lt;li&gt;снижать требования к качеству&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В итоге падает качество, но сохраняется иллюзия эффективности.&lt;/p&gt;
+&lt;h2 id="релоканты-уже-не-вернутся"&gt;Релоканты уже не вернутся
+&lt;/h2&gt;&lt;p&gt;Те, кто уехал, увидели другой рынок:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;нормальные процессы&lt;/li&gt;
+&lt;li&gt;уважение к времени&lt;/li&gt;
+&lt;li&gt;адекватные деньги&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;И главное — обратного пути, скорее-всего, нет, им не вернут прежние условия и оплату труда, так как система подчинения уже другая.&lt;/p&gt;
+&lt;h2 id="новые-разработчики-не-закрывают-рынок"&gt;Новые разработчики не закрывают рынок
+&lt;/h2&gt;&lt;p&gt;Проблема не в «слабых новичках».&lt;/p&gt;
+&lt;p&gt;Проблема в системе:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;их не учат&lt;/li&gt;
+&lt;li&gt;их используют как дешёвую замену&lt;/li&gt;
+&lt;li&gt;от них ждут уровня sineor+ за копейки&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI усиливает перекос, создавая иллюзию, что разработчик — это просто оператор.&lt;/p&gt;
+&lt;p&gt;Спойлер: это так не работает.&lt;/p&gt;
+&lt;h2 id="что-делать"&gt;Что делать
+&lt;/h2&gt;&lt;p&gt;Если ты остаёшься в модели «работодатель → разработчик» — ты проигрываешь.&lt;/p&gt;
+&lt;h3 id="1-фриланс-как-база"&gt;1. Фриланс как база
+&lt;/h3&gt;&lt;p&gt;Не биржи ради выживания, а системный подход:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;свои клиенты&lt;/li&gt;
+&lt;li&gt;повторяемые услуги&lt;/li&gt;
+&lt;li&gt;упаковка решений&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="2-фричайзинг-не-франчайзинг"&gt;2. Фричайзинг (не франчайзинг)
+&lt;/h3&gt;&lt;p&gt;Модель:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ты создаёшь продукт или услугу&lt;/li&gt;
+&lt;li&gt;другие разработчики подключаются&lt;/li&gt;
+&lt;li&gt;вы масштабируете поток&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Это сеть, а не иерархия.&lt;/p&gt;
+&lt;h2 id="итог"&gt;Итог
+&lt;/h2&gt;&lt;p&gt;Это не конец профессии.&lt;br&gt;
+Это конец старой модели.&lt;/p&gt;
+&lt;p&gt;Выиграют те, кто:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;умеет упаковывать ценность&lt;/li&gt;
+&lt;li&gt;строит сети&lt;/li&gt;
+&lt;li&gt;работает вне локального рынка&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Остальные, скорее-всего, будут продолжать дешеветь и писать код для ассемблера.&lt;/p&gt;
+&lt;p&gt;Выбор простой: перестраиваться или остаться частью офисной системы.&lt;/p&gt;</description></item><item><title>KeyPolice: Как я создал файловую систему на Markdown для управления данными</title><link>https://fedoseevsm.github.io/p/keypolice-github-io/</link><pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate><guid>https://fedoseevsm.github.io/p/keypolice-github-io/</guid><description>&lt;p&gt;Сегодня расскажу историю &lt;strong&gt;KeyPolice&lt;/strong&gt; — сервиса на &lt;a class="link" href="https://keypolice.github.io" target="_blank" rel="noopener"
+&gt;keypolice.github.io&lt;/a&gt;, который я запустил недавно. Это не просто инструмент, а целая файловая система, построенная по принципу &amp;ldquo;каждая запись — это Markdown-файл&amp;rdquo;. Звучит просто? Потому что так и есть. Давайте разберёмся, как это родилось.&lt;/p&gt;
+&lt;h2 id="почему-я-это-создал"&gt;Почему я это создал
+&lt;/h2&gt;&lt;p&gt;Всё началось около года назад, когда я работал над несколькими проектами для клиентов: админки для агентств, CRM для фрилансеров и даже франчайзинговые шаблоны. Общая боль — базы данных. SQL? Слишком тяжко для прототипов. NoSQL вроде Supabase? Круто, но для маленьких команд или соло-разработчиков это оверкилл: миграции, схемы, масштабирование&amp;hellip; Я устал от этого.&lt;/p&gt;
+&lt;p&gt;Тогда я подумал: &amp;ldquo;А что если хранить всё в файлах? Markdown — это уже мой родной язык для блогов на Hugo, документации на GitHub и даже контента для SaaS&amp;rdquo;. Идея: превратить репозиторий в полноценную файловую систему. Каждая сущность (пользователь, пост, заказ, партнёр) — отдельный &lt;code&gt;.md&lt;/code&gt;-файл с YAML-фронтматтером для метаданных. Хочешь редактировать? Открываешь в VS Code. Хочешь версионировать? Git сам всё сделает. Масштаб? Просто кидай файлы в папки.&lt;/p&gt;
+&lt;p&gt;Так родился KeyPolice. Название — от &amp;ldquo;key&amp;rdquo; (ключ/сущность) и &amp;ldquo;police&amp;rdquo; (полиция файлов, которая наводит порядок 😎). Первый коммит на GitHub был сегодня 2026-го, а через несколько часов сервис уже живой на keypolice.github.io.&lt;/p&gt;
+&lt;h2 id="как-это-работает-на-практике"&gt;Как это работает на практике
+&lt;/h2&gt;&lt;p&gt;Представьте структуру:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;data/
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;├── users/
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;│ └── user-123.md # YAML: id: 123, name: &amp;#34;Семён&amp;#34;, email: &amp;#34;...&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;├── posts/
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;│ └── post-456.md # Контент в Markdown, метаданные в фронтматтере
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;└── orders/
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; └── order-789.md
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Сервис парсит эти файлы на лету: API-эндпоинты для CRUD (create/read/update/delete), поиск по фронтматтеру, даже валидация схем через JSON Schema в YAML. Интеграции для хостинга — deploy в один клик. Нет баз данных — только Git и Markdown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Пример файла &lt;code&gt;user-123.md&lt;/code&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;id: 123
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;name: Семён Федосеев
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;email: semen&lt;span class="ni"&gt;@example&lt;/span&gt;.com
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;role: admin
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;created: 2026-04-18
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="gh"&gt;# Профиль пользователя
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Здесь bio в Markdown.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Это гениально просто для фриланс-агентств вроде моего: редактируй данные в GitHub, тяни через API в React/Vite-приложение. Масштабируй до тысяч файлов — GitHub Pages справятся.&lt;/p&gt;
+&lt;p&gt;Вот пример текста для новой секции, который ты можешь добавить на страницу &lt;code&gt;https://fedoseevsm.github.io/p/keypolice-github-io/&lt;/code&gt; (например, под заголовком &lt;code&gt;## Как это работает&lt;/code&gt; или &lt;code&gt;## Безопасность и приватность&lt;/code&gt;):&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="фрилансплатформа-без-личных-данных"&gt;Фриланс‑платформа без личных данных
+&lt;/h3&gt;&lt;p&gt;&amp;lt;keypolice.github.io&amp;gt; — это фриланс биржа, в которой вся информация о предложениях и сделках хранится в открытом GitHub‑репозитории, а не в отдельной базе данных пользователей.
+Никакие подробные личные данные заказчиков и исполнителей не собираются централизованно: вместо этого контент и метаданные публикуются напрямую в ветках и pull requests, что делает систему более прозрачной и децентрализованной.&lt;/p&gt;
+&lt;h2 id="что-дальше"&gt;Что дальше
+&lt;/h2&gt;&lt;p&gt;KeyPolice уже open-source, с доками и примерами на GitHub. Я добавил чатбот для быстрого старта и шаблоны для типичных сущностей (пользователи, блог-посты, партнёрства).&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3905.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3905_hu_14967b50968abb77.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3905_hu_4ac539e311e7cf95.png 1024w"
+loading="lazy"
+alt="Изображение 1"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3906.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3906_hu_647f8f4df3a73b1a.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3906_hu_44bdea35102b344f.png 1024w"
+loading="lazy"
+alt="Изображение 2"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3907.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3907_hu_6db05d793a95d10a.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3907_hu_7b20b9943de7f21c.png 1024w"
+loading="lazy"
+alt="Изображение 3"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3908.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3908_hu_b2cda38882098ad.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3908_hu_881a0db67d0ca395.png 1024w"
+loading="lazy"
+alt="Изображение 4"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3909.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3909_hu_2aad898099b0ee65.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3909_hu_6f17141a3e78ed83.png 1024w"
+loading="lazy"
+alt="Изображение 5"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3910.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3910_hu_b351607da7d62ab0.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3910_hu_9a3f7f6030377190.png 1024w"
+loading="lazy"
+alt="Изображение 6"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt;
+&lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3911.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3911_hu_be45d3b66aaede3.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3911_hu_35be6b559f46676a.png 1024w"
+loading="lazy"
+alt="Изображение 7"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3912.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3912_hu_1905a16fc410cdae.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3912_hu_3cb091713a73e138.png 1024w"
+loading="lazy"
+alt="Изображение 8"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3913.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3913_hu_f5a2fe6dc2f8eb5e.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3913_hu_a4dae3beb6761417.png 1024w"
+loading="lazy"
+alt="Изображение 9"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3914.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3914_hu_a482205e22168dad.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3914_hu_56eb6b10fcdb24dc.png 1024w"
+loading="lazy"
+alt="Изображение 10"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3915.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3915_hu_4644d5397c7a32ba.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3915_hu_4b2cb927ae3811b2.png 1024w"
+loading="lazy"
+alt="Изображение 11"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3916.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3916_hu_b28cd1455b31c674.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3916_hu_6fd65c94d3a13f58.png 1024w"
+loading="lazy"
+alt="Изображение 12"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt;
+&lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3917.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3917_hu_68bb56b791c0237.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3917_hu_5a8cee740588182b.png 1024w"
+loading="lazy"
+alt="Изображение 13"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3918.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3918_hu_c8883201db35be91.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3918_hu_2057e885881f26d6.png 1024w"
+loading="lazy"
+alt="Изображение 14"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3919.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3919_hu_7449d9c87dcc26bd.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3919_hu_56236b41f0b31e3e.png 1024w"
+loading="lazy"
+alt="Изображение 15"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3920.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3920_hu_5cfb960b6a730fca.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3920_hu_c57918529e90568a.png 1024w"
+loading="lazy"
+alt="Изображение 16"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3921.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3921_hu_da235ca89b30d5e5.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3921_hu_5eece5834206779d.png 1024w"
+loading="lazy"
+alt="Изображение 17"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3922.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3922_hu_714d54f2330d0f22.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3922_hu_e39d37238deab705.png 1024w"
+loading="lazy"
+alt="Изображение 18"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt;
+&lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3923.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3923_hu_d2556b3d4f3aca3a.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3923_hu_fb126cb2d148f383.png 1024w"
+loading="lazy"
+alt="Изображение 19"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3924.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3924_hu_8815a5a96d8b722d.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3924_hu_ea454bd08e24f821.png 1024w"
+loading="lazy"
+alt="Изображение 20"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt;&lt;/p&gt;</description></item></channel></rss>
