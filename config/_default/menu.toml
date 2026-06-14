@@ -26,7 +26,7 @@ name = "Подробнее"
 url = "https://fedoseevsm.github.io/p/semion-freelance-7-stran-uspeha/"
 
 [social.params]
-icon = "brand-youtube"
+icon = "brand-yt"
 
 [[social]]
 identifier = "telegram"
