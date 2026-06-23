@@ -1,4 +1,5 @@
 ---
+title: Links
 links:
   - title: TenChat
     description: Фричайзинг • Вокруг света на волне успеха
