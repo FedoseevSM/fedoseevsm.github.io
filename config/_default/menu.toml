@@ -8,11 +8,12 @@
 #newtab = true
 
 [[main]]
-identifier = "home"
-name = "Home"
-url = "/"
+identifier = "stepik"
+name = "Stepik"
+url = "https://stepik.org/course/269329"
+
 [main.params]
-icon = "home"
+icon = "link"
 newtab = true
 
 [[social]]
