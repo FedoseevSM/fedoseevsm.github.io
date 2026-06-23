@@ -1,5 +1,5 @@
 ---
-title: "#31 Задача: Верстка магазина Dota-вещей на Angular"
+title: "#41 Задача: Верстка магазина Dota-вещей на Angular"
 date: 2026-06-23
 draft: false
 slug: "angular-dota-shop"
