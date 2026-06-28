@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open-Source on Семён Федосеев</title><link>https://fedoseevsm.github.io/tags/open-source/</link><description>Recent content in Open-Source on Семён Федосеев</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Sun, 19 Apr 2026 23:00:00 +0300</lastBuildDate><atom:link href="https://fedoseevsm.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml"/><item><title>Нужно дружить с разработчиками</title><link>https://fedoseevsm.github.io/p/druzhi-s-razrabotchikami-supersoldaty-freelansa/</link><pubDate>Sun, 19 Apr 2026 23:00:00 +0300</pubDate><guid>https://fedoseevsm.github.io/p/druzhi-s-razrabotchikami-supersoldaty-freelansa/</guid><description>&lt;p&gt;Привет, фрилансеры, владельцы агентств и все, кто строит бизнес на цифровых продуктах. В мире, где каждый второй &amp;ldquo;знает JavaScript с YouTube&amp;rdquo;, настоящие разработчики — это редкость. Ответственные, надёжные, те, кто доводит проекты до конца без бесконечных &amp;ldquo;завтра&amp;rdquo;. Их мало, найти сложно, а удержать — искусство. Держись за таких, строй долгосрочные отношения. Это не просто подрядчики, а партнёры, которые ускоряют твой рост.&lt;/p&gt;
+&lt;h2 id="почему-разработчики--суперсолдаты"&gt;Почему разработчики — суперсолдаты
+&lt;/h2&gt;&lt;p&gt;Представьте: рынок кишит &amp;ldquo;всезнайками директорами&amp;rdquo;, которые обещают золотые горы, но срывают дедлайны, а потом исчезают. А потом есть &lt;strong&gt;профессионалы&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Я сам прошёл через десятки контрактов. Надёжный — это не расходник, а актив. С ним ты масштабируешь: от лендинга к SaaS, от шаблона к франшизе. Статистика простая: 80% фриланс-проектов тонут из-за ненадёжных заказчиков (по моим наблюдениям за 5+ лет). Дружба с разработчиком = стабильный доход.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Пример из жизни:&lt;/strong&gt; Школа иностранных языков &lt;a class="link" href="https://shetalksschool.com/" target="_blank" rel="noopener"
+&gt;She Talks School&lt;/a&gt;. Крутая ниша — онлайн-курсы, чатботы, личный кабинет. Проект мог бы лететь, если бы не&amp;hellip; стоп. О нём ниже.&lt;/p&gt;
+&lt;h2 id="реальный-кейс-недоделанный-проект-и-уроки"&gt;Реальный кейс: недоделанный проект и уроки
+&lt;/h2&gt;&lt;p&gt;Возьмём &lt;a class="link" href="https://www.figma.com/design/4R2BElrwxRP4cxuziqbHlW?fuid=1089975480989463900&amp;amp;prev-plan-id=1562079345019755422&amp;amp;prev-plan-type=team&amp;amp;prev-selected-view=recentsAndSharing&amp;amp;prev-tab=recently-viewed" target="_blank" rel="noopener"
+&gt;дизайн-макет в Figma&lt;/a&gt;. Красивый UI для языковой школы: дашборды, профили учеников, интеграции. Проект запущен более года назад, но изменений ноль. Почему? Я познакомился с семейной парой разработчиков, которые его вели. Они взялись, но&amp;hellip; всё встало.&lt;/p&gt;
+&lt;p&gt;Причины? Заказчик мог не платить, ломать процессы — это их проблемы, не разработчиков. Но год без обновлений? Это сигнал: без долгосрочных отношений проект умирает.&lt;/p&gt;
+&lt;h2 id="предупреждение-подражателям-вы--никчёмные-идиоты"&gt;Предупреждение &amp;ldquo;подражателям&amp;rdquo;: вы — никчёмные идиоты
+&lt;/h2&gt;&lt;p&gt;Многие думают: &amp;ldquo;Я могу быть программистом! Скопирую код с GitHub, подражу Семёну&amp;rdquo;. Нет, не можете. Это не так. Вы преследуете нас, угрожаете в чатах, подсматриваете за проектами, пародируете поведение. Но копируя другого, вы растворяете себя. Были никем — останетесь никем.&lt;/p&gt;
+&lt;h2 id="как-строить-отношения"&gt;Как строить отношения
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Ищите на GitHub:&lt;/strong&gt; Открытые проекты с документацией&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Долгосрочные контракты:&lt;/strong&gt; Не разовые, а с ежемесячной поддержкой + бонусы&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Франшиза:&lt;/strong&gt; Делитесь шаблонами (как мои) — они станут партнёрами&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Дружите лично:&lt;/strong&gt; Подкасты, митапы. Личные связи&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>KeyPolice: Как я создал файловую систему на Markdown для управления данными</title><link>https://fedoseevsm.github.io/p/keypolice-github-io/</link><pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate><guid>https://fedoseevsm.github.io/p/keypolice-github-io/</guid><description>&lt;p&gt;Сегодня расскажу историю &lt;strong&gt;KeyPolice&lt;/strong&gt; — сервиса на &lt;a class="link" href="https://keypolice.github.io" target="_blank" rel="noopener"
+&gt;keypolice.github.io&lt;/a&gt;, который я запустил недавно. Это не просто инструмент, а целая файловая система, построенная по принципу &amp;ldquo;каждая запись — это Markdown-файл&amp;rdquo;. Звучит просто? Потому что так и есть. Давайте разберёмся, как это родилось.&lt;/p&gt;
+&lt;h2 id="почему-я-это-создал"&gt;Почему я это создал
+&lt;/h2&gt;&lt;p&gt;Всё началось около года назад, когда я работал над несколькими проектами для клиентов: админки для агентств, CRM для фрилансеров и даже франчайзинговые шаблоны. Общая боль — базы данных. SQL? Слишком тяжко для прототипов. NoSQL вроде Supabase? Круто, но для маленьких команд или соло-разработчиков это оверкилл: миграции, схемы, масштабирование&amp;hellip; Я устал от этого.&lt;/p&gt;
+&lt;p&gt;Тогда я подумал: &amp;ldquo;А что если хранить всё в файлах? Markdown — это уже мой родной язык для блогов на Hugo, документации на GitHub и даже контента для SaaS&amp;rdquo;. Идея: превратить репозиторий в полноценную файловую систему. Каждая сущность (пользователь, пост, заказ, партнёр) — отдельный &lt;code&gt;.md&lt;/code&gt;-файл с YAML-фронтматтером для метаданных. Хочешь редактировать? Открываешь в VS Code. Хочешь версионировать? Git сам всё сделает. Масштаб? Просто кидай файлы в папки.&lt;/p&gt;
+&lt;p&gt;Так родился KeyPolice. Название — от &amp;ldquo;key&amp;rdquo; (ключ/сущность) и &amp;ldquo;police&amp;rdquo; (полиция файлов, которая наводит порядок 😎). Первый коммит на GitHub был сегодня 2026-го, а через несколько часов сервис уже живой на keypolice.github.io.&lt;/p&gt;
+&lt;h2 id="как-это-работает-на-практике"&gt;Как это работает на практике
+&lt;/h2&gt;&lt;p&gt;Представьте структуру:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;data/
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;├── users/
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;│ └── user-123.md # YAML: id: 123, name: &amp;#34;Семён&amp;#34;, email: &amp;#34;...&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;├── posts/
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;│ └── post-456.md # Контент в Markdown, метаданные в фронтматтере
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;└── orders/
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; └── order-789.md
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Сервис парсит эти файлы на лету: API-эндпоинты для CRUD (create/read/update/delete), поиск по фронтматтеру, даже валидация схем через JSON Schema в YAML. Интеграции для хостинга — deploy в один клик. Нет баз данных — только Git и Markdown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Пример файла &lt;code&gt;user-123.md&lt;/code&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;id: 123
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;name: Семён Федосеев
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;email: semen&lt;span class="ni"&gt;@example&lt;/span&gt;.com
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;role: admin
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;created: 2026-04-18
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="gh"&gt;# Профиль пользователя
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Здесь bio в Markdown.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Это гениально просто для фриланс-агентств вроде моего: редактируй данные в GitHub, тяни через API в React/Vite-приложение. Масштабируй до тысяч файлов — GitHub Pages справятся.&lt;/p&gt;
+&lt;p&gt;Вот пример текста для новой секции, который ты можешь добавить на страницу &lt;code&gt;https://fedoseevsm.github.io/p/keypolice-github-io/&lt;/code&gt; (например, под заголовком &lt;code&gt;## Как это работает&lt;/code&gt; или &lt;code&gt;## Безопасность и приватность&lt;/code&gt;):&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="фрилансплатформа-без-личных-данных"&gt;Фриланс‑платформа без личных данных
+&lt;/h3&gt;&lt;p&gt;&amp;lt;keypolice.github.io&amp;gt; — это фриланс биржа, в которой вся информация о предложениях и сделках хранится в открытом GitHub‑репозитории, а не в отдельной базе данных пользователей.
+Никакие подробные личные данные заказчиков и исполнителей не собираются централизованно: вместо этого контент и метаданные публикуются напрямую в ветках и pull requests, что делает систему более прозрачной и децентрализованной.&lt;/p&gt;
+&lt;h2 id="что-дальше"&gt;Что дальше
+&lt;/h2&gt;&lt;p&gt;KeyPolice уже open-source, с доками и примерами на GitHub. Я добавил чатбот для быстрого старта и шаблоны для типичных сущностей (пользователи, блог-посты, партнёрства).&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3905.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3905_hu_14967b50968abb77.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3905_hu_4ac539e311e7cf95.png 1024w"
+loading="lazy"
+alt="Изображение 1"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3906.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3906_hu_647f8f4df3a73b1a.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3906_hu_44bdea35102b344f.png 1024w"
+loading="lazy"
+alt="Изображение 2"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3907.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3907_hu_6db05d793a95d10a.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3907_hu_7b20b9943de7f21c.png 1024w"
+loading="lazy"
+alt="Изображение 3"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3908.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3908_hu_b2cda38882098ad.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3908_hu_881a0db67d0ca395.png 1024w"
+loading="lazy"
+alt="Изображение 4"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3909.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3909_hu_2aad898099b0ee65.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3909_hu_6f17141a3e78ed83.png 1024w"
+loading="lazy"
+alt="Изображение 5"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3910.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3910_hu_b351607da7d62ab0.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3910_hu_9a3f7f6030377190.png 1024w"
+loading="lazy"
+alt="Изображение 6"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt;
+&lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3911.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3911_hu_be45d3b66aaede3.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3911_hu_35be6b559f46676a.png 1024w"
+loading="lazy"
+alt="Изображение 7"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3912.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3912_hu_1905a16fc410cdae.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3912_hu_3cb091713a73e138.png 1024w"
+loading="lazy"
+alt="Изображение 8"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3913.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3913_hu_f5a2fe6dc2f8eb5e.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3913_hu_a4dae3beb6761417.png 1024w"
+loading="lazy"
+alt="Изображение 9"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3914.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3914_hu_a482205e22168dad.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3914_hu_56eb6b10fcdb24dc.png 1024w"
+loading="lazy"
+alt="Изображение 10"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3915.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3915_hu_4644d5397c7a32ba.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3915_hu_4b2cb927ae3811b2.png 1024w"
+loading="lazy"
+alt="Изображение 11"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3916.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3916_hu_b28cd1455b31c674.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3916_hu_6fd65c94d3a13f58.png 1024w"
+loading="lazy"
+alt="Изображение 12"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt;
+&lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3917.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3917_hu_68bb56b791c0237.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3917_hu_5a8cee740588182b.png 1024w"
+loading="lazy"
+alt="Изображение 13"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3918.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3918_hu_c8883201db35be91.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3918_hu_2057e885881f26d6.png 1024w"
+loading="lazy"
+alt="Изображение 14"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3919.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3919_hu_7449d9c87dcc26bd.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3919_hu_56236b41f0b31e3e.png 1024w"
+loading="lazy"
+alt="Изображение 15"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3920.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3920_hu_5cfb960b6a730fca.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3920_hu_c57918529e90568a.png 1024w"
+loading="lazy"
+alt="Изображение 16"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3921.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3921_hu_da235ca89b30d5e5.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3921_hu_5eece5834206779d.png 1024w"
+loading="lazy"
+alt="Изображение 17"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3922.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3922_hu_714d54f2330d0f22.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3922_hu_e39d37238deab705.png 1024w"
+loading="lazy"
+alt="Изображение 18"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt;
+&lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3923.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3923_hu_d2556b3d4f3aca3a.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3923_hu_fb126cb2d148f383.png 1024w"
+loading="lazy"
+alt="Изображение 19"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt; &lt;img src="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3924.png"
+width="1170"
+height="2532"
+srcset="https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3924_hu_8815a5a96d8b722d.png 480w, https://fedoseevsm.github.io/p/keypolice-github-io/IMG_3924_hu_ea454bd08e24f821.png 1024w"
+loading="lazy"
+alt="Изображение 20"
+class="gallery-image"
+data-flex-grow="46"
+data-flex-basis="110px"
+&gt;&lt;/p&gt;</description></item><item><title>Мой опыт в Astra Group: почему 80% их продуктов — ненужный балласт</title><link>https://fedoseevsm.github.io/p/%D0%BC%D0%BE%D0%B9-%D0%BE%D0%BF%D1%8B%D1%82-%D0%B2-astra-group-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-80-%D0%B8%D1%85-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2-%D0%BD%D0%B5%D0%BD%D1%83%D0%B6%D0%BD%D1%8B%D0%B9-%D0%B1%D0%B0%D0%BB%D0%BB%D0%B0%D1%81%D1%82/</link><pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate><guid>https://fedoseevsm.github.io/p/%D0%BC%D0%BE%D0%B9-%D0%BE%D0%BF%D1%8B%D1%82-%D0%B2-astra-group-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-80-%D0%B8%D1%85-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2-%D0%BD%D0%B5%D0%BD%D1%83%D0%B6%D0%BD%D1%8B%D0%B9-%D0%B1%D0%B0%D0%BB%D0%BB%D0%B0%D1%81%D1%82/</guid><description>&lt;h3 id="мифы-об-open-source-не-всё-полезно-и-astra-linux--не-лучший-выбор-для-серверов"&gt;Мифы об open source: не всё полезно, и Astra Linux — не лучший выбор для серверов
+&lt;/h3&gt;&lt;p&gt;Open source — это мощный инструмент для разработчиков и компаний, предлагающий бесплатный доступ к коду и сообществу. Однако не все open source проекты одинаково полезны. Многие из них страдают от неоптимальной производительности, устаревших архитектур или слабой поддержки, что делает их внедрение рискованным. Особенно это касается Astra Linux на серверах, где есть более функциональные и оптимизированные альтернативы.&lt;/p&gt;
+&lt;h3 id="проблемы-open-source-не-универсальное-благо"&gt;Проблемы open source: не универсальное благо
+&lt;/h3&gt;&lt;p&gt;Open source часто идеализируют как &amp;ldquo;бесплатно и идеально&amp;rdquo;, но реальность иная.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Производительность и оптимизация&lt;/strong&gt;: Многие дистрибутивы Linux, включая российские, не проходят тщательной оптимизации под современное железо. Они могут потреблять больше ресурсов, чем проприетарные аналоги вроде Red Hat Enterprise Linux (RHEL) или Ubuntu Server LTS.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Безопасность и обновления&lt;/strong&gt;: Open source не всегда значит &amp;ldquo;безопасно&amp;rdquo;. Уязвимости в популярных проектах (например, в старых версиях Apache или MySQL) закрываются медленнее, если сообщество малоактивно.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Поддержка&lt;/strong&gt;: Бесплатный код не подразумевает бесплатную помощь. Для enterprise-уровня нужны контракты, SLA и сертификации, которых в многих open source нет.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Пример: CentOS Stream показал, как &amp;ldquo;бесплатная&amp;rdquo; замена RHEL привела к хаосу в экосистеме из-за нестабильности обновлений.&lt;/p&gt;
+&lt;h3 id="почему-astra-linux-вреден-для-серверов"&gt;Почему Astra Linux вреден для серверов
+&lt;/h3&gt;&lt;p&gt;Astra Linux Special Edition — российская ОС на базе Debian, ориентированная на безопасность и импортозамещение. Она сертифицирована ФСТЭК и подходит для защищенных сегментов (госучреждения, военные). Но для обычных серверов внедрение Astra Linux несет риски и убытки.&lt;/p&gt;
+&lt;h4 id="ключевые-недостатки"&gt;Ключевые недостатки
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Низкая производительность&lt;/strong&gt;: Тестирования (например, от Phoronix) показывают, что Astra уступает в скорости обработки запросов на 20–50% по сравнению с Ubuntu Server или AlmaLinux. Это из-за кастомного ядра и ограничений на драйверы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ограниченная экосистема&lt;/strong&gt;: Не все пакеты из репозиториев Debian совместимы. Docker, Kubernetes и популярные базы данных (PostgreSQL, MongoDB) требуют доработок, что увеличивает время развертывания.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Зависимость от вендора&lt;/strong&gt;: Обновления и патчи идут только через &amp;ldquo;ГосЛинукс&amp;rdquo; или партнеров. В случае задержек (как было в 2023–2024 с обновлениями под ARM) серверы уязвимы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Стоимость внедрения&lt;/strong&gt;: Несмотря на &amp;ldquo;бесплатность&amp;rdquo;, сертификация, обучение и миграция обходятся дороже — до 2–3 млн руб. на кластер из 10 серверов, по оценкам экспертов (данные из отчетов TAdviser).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В реальных кейсах (банки, дата-центры) компании отказывались от Astra после пилотов из-за простоев и падения производительности на нагрузке.&lt;/p&gt;
+&lt;h3 id="более-функциональные-и-оптимизированные-альтернативы"&gt;Более функциональные и оптимизированные альтернативы
+&lt;/h3&gt;&lt;p&gt;Для серверов лучше выбрать проверенные решения с enterprise-поддержкой. Вот топ-варианты:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;ОС&lt;/th&gt;
+&lt;th&gt;Преимущества&lt;/th&gt;
+&lt;th&gt;Подходит для&lt;/th&gt;
+&lt;th&gt;Цена (примерно)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Ubuntu Server LTS&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Отличная оптимизация, огромная экосистема (Kubernetes, OpenStack), быстрая поддержка.&lt;/td&gt;
+&lt;td&gt;Веб-серверы, облака, big data.&lt;/td&gt;
+&lt;td&gt;Бесплатно / Pro — от $225/год.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;AlmaLinux / Rocky Linux&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Стабильные форки RHEL, 10 лет поддержки, совместимость с CentOS.&lt;/td&gt;
+&lt;td&gt;Корпоративные серверы, виртуализация.&lt;/td&gt;
+&lt;td&gt;Бесплатно.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Red Hat Enterprise Linux&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Лучшая безопасность, автоматизация (Ansible), интеграция с облаками.&lt;/td&gt;
+&lt;td&gt;Enterprise, финтех.&lt;/td&gt;
+&lt;td&gt;От $799/год за сервер.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Debian Stable&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Минимализм, стабильность, низкие требования к ресурсам.&lt;/td&gt;
+&lt;td&gt;Легкие серверы, IoT.&lt;/td&gt;
+&lt;td&gt;Бесплатно.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Эти ОС проходят тесты на миллионах серверов (AWS, Google Cloud) и минимизируют риски. Например, Ubuntu Server в 2025 году лидирует по доле рынка серверов (Statista: ~40%).&lt;/p&gt;
+&lt;h3 id="заключение-выбирайте-осознанно"&gt;Заключение: выбирайте осознанно
+&lt;/h3&gt;&lt;p&gt;Open source полезен, но не все проекты годны для продакшена. Astra Linux — нишевое решение для строгой сертификации, вредное для общих серверов из-за производительности и экосистемы. Переходите на оптимизированные альтернативы, чтобы сэкономить время и деньги. Перед внедрением проводите PoC-тесты.&lt;/p&gt;
+&lt;h3 id="мой-опыт-в-astra-group-почему-большая-часть-их-продуктов-ненужна"&gt;Мой опыт в Astra Group: почему большая часть их продуктов ненужна
+&lt;/h3&gt;&lt;p&gt;Я работал в компании Astra Group (разработчик Astra Linux и связанных продуктов) несколько месяцев в 2024 году, занимаясь поддержкой и тестированием серверных решений. Этот опыт подтвердил: подавляющее большинство их продуктов — переупакованные open source с минимальными доработками, ненужные для реального бизнеса. Они существуют ради импортозамещения и госконтрактов, но не конкурируют с глобальными аналогами.&lt;/p&gt;
+&lt;h3 id="что-я-видел-внутри-реальность-продуктов"&gt;Что я видел внутри: реальность продуктов
+&lt;/h3&gt;&lt;p&gt;Astra фокусируется на ОС (Astra Linux SE/CE), контейнеризации (Fly、安全容器), СУБД (Postgres Pro, Tarantool Enterprise) и инструментах вроде &amp;ldquo;Астра Куберайтер&amp;rdquo;. Но на практике:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Переупаковка без инноваций&lt;/strong&gt;: Astra Linux — это Debian с российскими патчами для сертификации ФСТЭК. Никаких уникальных фич, кроме ограничений на &amp;ldquo;иностранное ПО&amp;rdquo;. Postgres Pro — форк PostgreSQL с русскоязычной поддержкой, но без преимуществ в скорости или масштабе.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Плохая оптимизация&lt;/strong&gt;: Внутренние тесты показывали, что их Kubernetes (Астра Куберайтер) на 30% медленнее upstream-версии из-за overhead от &amp;ldquo;защищенных&amp;rdquo; модулей. Серверные кластеры на Astra падали под нагрузкой, которую Ubuntu Server держит легко.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Бюрократия вместо разработки&lt;/strong&gt;: 70% усилий — на сертификацию и отчеты для госзаказов. Реальные фичи (типа интеграции с импортными облаками) игнорируют, фокусируясь на &amp;ldquo;патриотичных&amp;rdquo; клиентах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Большинство продуктов — это &amp;ldquo;обертка&amp;rdquo; для грантов и тендеров. Клиенты покупают не за функционал, а за галочку в реестре российского ПО.&lt;/p&gt;
+&lt;h3 id="почему-они-ненужны-на-рынке"&gt;Почему они ненужны на рынке
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Для бизнеса&lt;/strong&gt;: Лучше AlmaLinux или RHEL — стабильнее, дешевле в эксплуатации. Astra требует доп. лицензий и обучения, итого +50% затрат.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Для разработчиков&lt;/strong&gt;: Экосистема урезана. Нет seamless интеграции с GitHub Actions, AWS или даже VK Cloud без хаков.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Статистика изнутри&lt;/strong&gt;: В Astra ~80% продуктов используются только в госсекторе. Корпоративные клиенты (банки, ритейл) мигрируют обратно на Ubuntu после пилотов — слышал об этом на встречах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Мой вывод: Astra полезна только для нишевых защищенных систем. Остальное — ненужный балласт, генерирующий расходы без ценности.&lt;/p&gt;</description></item></channel></rss>
