@@ -12,7 +12,7 @@ links:
   - title: LOOKY
     description: hipackme
     website: https://looky.com/profile/hipackme
-    image: https://play-lh.googleusercontent.com/BXyHKUOc3sZ3VHgtGpFgNAA-Fd2dPl4R-fZevn_woqV-GJbKLDkq6syXTHx0-TvUkX4l0IyR_Bb7npduj_B3VQ4103-96de-360c500d694d.jpegMessenger.png
+    image: https://play-lh.googleusercontent.com/BXyHKUOc3sZ3VHgtGpFgNAA-Fd2dPl4R-fZevn_woqV-GJbKLDkq6syXTHx0-TvUkX4l0IyR_Bb7npduj_B3VQ
   - title: TenChat
     description: Фричайзинг • Вокруг света на волне успеха
     website: https://tenchat.ru/freechising
