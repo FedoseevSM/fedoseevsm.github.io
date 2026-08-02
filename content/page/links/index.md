@@ -9,6 +9,10 @@ links:
     description: Семён Фричайзинг
     website: https://tglink.ru/semyonfedoseev
     image: https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png
+  - title: LOOKY
+    description: hipackme
+    website: https://looky.com/profile/hipackme
+    image: https://static.rustore.ru/apk/2063529538/content/ICON/d8f433f6-77ee-4103-96de-360c500d694d.jpegMessenger.png
   - title: TenChat
     description: Фричайзинг • Вокруг света на волне успеха
     website: https://tenchat.ru/freechising
