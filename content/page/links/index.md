@@ -6,7 +6,7 @@ links:
     website: https://setka.ru/accounts/34fa8040-47fb-4474-a94a-67d461712261
     image: https://play-lh.googleusercontent.com/TvMVKoa2cLdMgW_4jz3QYJbIHlMKq53aTAKy_1ixTpjOJChwq3Nf87w9KHIZ_xl9TZv-EZpEWRvdCRh4jPHB2Q=w240-h480-rw
   - title: Telegram
-    description: Семён Фричайзинг
+    description: semyonfedoseev
     website: https://tglink.ru/semyonfedoseev
     image: https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png
   - title: LOOKY
