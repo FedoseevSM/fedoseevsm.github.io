@@ -21,6 +21,10 @@ links:
     description: Биржа фриланс услуг
     website: https://keypolice.github.io
     image: https://images.icon-icons.com/317/PNG/512/keyring-icon_34403.png
+  - title: Гольфуй
+    description: Создаем и запускаем рекламные кампании
+    website: https://golfui.ru/
+    image: https://golfui.ru/icons/skitbit-white.svg
 menu:
     main: 
         weight: 4
