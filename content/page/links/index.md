@@ -1,6 +1,10 @@
 ---
 title: Links
 links:
+  - title: Stepik
+    description: Семён Федосеев
+    website: https://stepik.org/users/468787925/profile
+    image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_kMqoegq-9QSdXclwrTh0SU--CKVKBoje0mZLk11iDA&s=10
   - title: Сетка
     description: Семён Федосеев
     website: https://setka.ru/accounts/34fa8040-47fb-4474-a94a-67d461712261
