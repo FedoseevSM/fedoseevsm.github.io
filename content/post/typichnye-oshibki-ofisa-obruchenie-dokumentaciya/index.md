@@ -42,5 +42,5 @@ draft: false
 - Мой журнал о модульных сервисах: https://fedoseevsm.github.io/p/buddhist-cosmopolitan-prosmotr-zhurnala-pro-modulnye-servisy/
 - Мой материал о фричайзинге интернет-магазина: https://fedoseevsm.github.io/p/frichayzing-internet-magazin-velotigr/
 - 10 шагов к первому заказу на дропшиппинге: https://project-cheery-city-142.magicpatterns.app/
-- 10 ошибок корпоративного мышления: https://project-pain-point-landing-page-with-funnel-widget-419.magicpatterns.app/
+- 10 ошибок корпоративного мышления: https://fedoseevsm.github.io/how-to-promo/
 
