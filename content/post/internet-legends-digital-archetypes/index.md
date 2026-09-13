@@ -1,6 +1,6 @@
 ---
 title: "Интернет-легенды"
-date: 2024-10-27T10:00:00+03:00
+date: 2026-09-13
 draft: false
 slug: internet-legends-digital-archetypes
 ---
